@@ -1,2 +1,2 @@
-# trabajosfuundamentosdepython
-entrega de trabajos
+# Trabajos fundamentos de Python
+Entrega de trabajos
